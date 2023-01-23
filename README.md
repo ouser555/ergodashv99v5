@@ -23,6 +23,8 @@
       
     * 相應的json檔  
       https://github.com/ouser555/ergodashv99v5/blob/main/VIA%20configurator/ErgoDash_4key_2u_inner%20-remap.json
+      
+      (對畫面右上方的RAW按鈕，右鍵另存連結為...)
     
     * 也可以使用網頁版的VIA configurator
       https://usevia.app/#/    
