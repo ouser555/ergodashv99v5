@@ -26,6 +26,8 @@
     
 ## 燒錄說明
 
+* 重新燒錄任體會將你原本改過的鍵盤設定情除掉，的更新你的鍵盤之前，建議可以先用VIA configuration儲存你使用中的keymap，待更新之後再複寫回來。
+
 * https://github.com/ouser555/ergodashv99/blob/main/QMKToolbox/readme.md
     
 
