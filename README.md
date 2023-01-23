@@ -1,4 +1,7 @@
-# ergodashv99v5
+# ergodashv99v5 
+
+## 20230123更新說明
+
 20230122-qmk firmware-0.19.10  
 
 
@@ -20,6 +23,12 @@
     * 原本的解決方式是請使用者換一條USB type-C有支援快衝的充電線，並使用電腦上USB 3.0以上的port，使供電能超過500mA的限制。
       
     * 改為直接由鍵盤程式端限制RGB最大亮度，使電流不會超過USB 2.0額定的500mA。減少使用負擔。
+    
+## 燒錄說明
+
+* https://github.com/ouser555/ergodashv99/blob/main/QMKToolbox/readme.md
+    
+
     
   
   
