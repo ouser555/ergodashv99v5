@@ -18,6 +18,11 @@
     
     * 順便關掉一些沒使用的RGB功能菜單，只留下可以操作的功能介面。
     
+    * 燒錄檔下載位置
+      https://github.com/ouser555/ergodashv99v5/blob/main/hex/ergodash_rev2_v99v5.hex
+      
+      (對畫面右上方的RAW按鈕，右鍵另存連結為...)
+    
     * 下載最VIA 2.10版，
       https://github.com/the-via/releases/releases/
       
