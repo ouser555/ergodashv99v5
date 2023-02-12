@@ -27,7 +27,7 @@
       https://github.com/the-via/releases/releases/
       
     * 相應的json檔  
-      https://github.com/ouser555/ergodashv99v5/blob/main/VIA%20configurator/ErgoDash_4key_2u_inner%20-remap.json 
+      ~~https://github.com/ouser555/ergodashv99v5/blob/main/VIA%20configurator/ErgoDash_4key_2u_inner%20-remap.json~~ 
       https://github.com/ouser555/ergodashv99v5/blob/main/VIA%20configurator/ErgoDash_4key_2u_inner%20-remapt02.json
       
       (對畫面右上方的RAW按鈕，右鍵另存連結為...)
