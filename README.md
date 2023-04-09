@@ -3,10 +3,23 @@
 ## 20230409更新說明
 
 * 20230409-qmk firmware-0.20.4
+  * 原始檔  
+    https://github.com/ouser555/ergodashv99v5/tree/main/firmware/ergodash-20230409
+    
+  * 燒錄檔  
+    https://github.com/ouser555/ergodashv99v5/blob/main/hex/ergodash_rev2_v99v5_20230409.hex
+    
+  * VIA config檔  
+    https://github.com/ouser555/ergodashv99v5/blob/main/VIA%20configurator/ErgoDash_4key_2u_inner%20-remapt03.json
+  
 * 版本特點
   * 修正電腦關機後再開鍵盤連線會不正常的問題
+  
   * 電腦休眠時RGB自動關閉
+  
   * 支援VIA configurator 3.0.0
+  
+  * VIA RGB亮度拖動範圍限制在150以下，防止電流過載
 
 ## 20230123更新說明
 
