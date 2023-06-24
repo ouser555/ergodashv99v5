@@ -20,6 +20,12 @@
   * 支援VIA configurator 3.0.0
   
   * VIA RGB亮度拖動範圍限制在150以下，防止電流過載
+ 
+*  補充說明
+   QMK不停更新中，這個版本的程式用到QMK新的版本八程式是無法編譯過的，
+   如果你想要使用最新版的QMK，可以參考它的changelog，
+   https://github.com/qmk/qmk_firmware/tree/master/docs/ChangeLog
+   根據它變更的內容去做相應的修改即可。
 
 ## 20230123更新說明
 
