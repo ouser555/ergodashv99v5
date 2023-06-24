@@ -3,6 +3,7 @@
     "manufacturer": "Touchsensor",
     "url": "",
     "maintainer": "qmk",
+    "ws2812": { "pin": "D3" },
     "usb": {
         "vid": "0xFEEE",
         "pid": "0x6060",
