@@ -65,7 +65,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_LIMIT_VAL 150
 
 /* ws2812 RGB LED */
-#define RGB_DI_PIN D3
+#define WS2812_DI_PIN D3
 //#define RGBLIGHT_ANIMATIONS
 //#define RGBLIGHT_MODE_STATIC_LIGHT
 //#define RGBLIGHT_EFFECT_BREATHING
